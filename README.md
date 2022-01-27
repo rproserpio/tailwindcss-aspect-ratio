@@ -2,6 +2,8 @@
 
 A plugin that provides a composable API for giving elements a fixed aspect ratio.
 
+Reworked in order to apply the pseudo-elements approach,
+see https://css-tricks.com/aspect-ratio-boxes/
 
 ## Installation
 
